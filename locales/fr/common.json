@@ -1,0 +1,14 @@
+{
+  "blogAbout": "Blogue nature",
+  "NatureNews": "Nouvelles de la nature",
+  "HomePage": "Page d'accueil",
+  "NatureOfUkraine": "La nature de l'Ukraine",
+  "NatureOfUkraineText": "Obtenez le contenu textuel concaténé de chaque élément de l'ensemble d'éléments correspondants, y compris leurs descendants, ou définissez le contenu textuel de ceux correspondants.",
+  "News": "nouvelles",
+  "NewsText": "Si vous voulez regarder les nouvelles, suivez le lien",
+  "littleAboutUs": "Un peu de nous",
+  "littleAboutUsText": "Contrairement à la méthode .html(), .text() peut être utilisé à la fois dans les documents XML et HTML.\nLe résultat de la méthode .text() est une chaîne contenant le texte concaténé de tous\néléments convenus. (En raison des différences entre les analyseurs HTML dans les différents navigateurs,\n  le texte renvoyé peut être différent avec une nouvelle ligne et un autre espace.)",
+  "PageNews": "Page d'actualités",
+  "GoToNews": "Retour aux actualités"
+
+}

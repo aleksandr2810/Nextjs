@@ -1,3 +1,13 @@
 {
-  "blogAbout": "Blog about nature"
+  "blogAbout": "Blog about nature",
+  "NatureNews": "Nature News",
+  "HomePage": "Home Page",
+  "NatureOfUkraine": "Nature of Ukraine",
+  "NatureOfUkraineText": "Get the combined text\ncontents of each element in the set of matched elements,\nincluding their descendants, or set the text contents of the matched.",
+  "News": "News",
+  "NewsText": "To watch the news follow the link",
+  "littleAboutUs": "A little about us",
+  "littleAboutUsText": "Unlike the .html() method, .text() can be used in both XML and HTML documents.\n The result of the .text() method is a string containing the combined text of all\n matched elements. (Due to variations in the HTML parsers in different browsers,\n  the text returned may vary in newlines and other white space.)",
+  "PageNews": "Page News",
+  "GoToNews": "go to News"
 }

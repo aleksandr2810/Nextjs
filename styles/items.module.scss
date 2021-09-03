@@ -1,0 +1,34 @@
+.title {
+   text-align: center;
+}
+
+.content {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 10px;
+
+   .text {
+      min-height: 200px;
+      text-align: center;
+      background-color: darkgray;
+      padding: 10px;
+   }
+
+   button {
+      display: block;
+      text-align: center;
+      margin: 10px auto;
+      width: 150px;
+      height: 40px;
+      border:1px solid grey;
+      border-radius: 5px;
+      background-color: grey;
+      color: rgb(58, 14, 218);
+      font-size: 14px;
+      text-transform: uppercase;
+      &:hover {
+         border:2px solid rgb(245, 188, 188);
+
+      }
+   }
+}

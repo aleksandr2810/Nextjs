@@ -1,0 +1,53 @@
+{
+  "news-en": [
+    {
+      "id": 1,
+      "title": "First News",
+      "body": "Get the combined text contents of each element in the set of matched elements, including their descendants, or set the text contents of the matched elements."
+    },
+    {
+      "id": 2,
+      "title": "Second News",
+      "body": "Get the combined text contents of each element in the set of matched elements, including their descendants, or set the text contents of the matched elements."
+    },
+    {
+      "id": 3,
+      "title": "Third News",
+      "body": "Get the combined text contents of each element in the set of matched elementsGet the combined text contents of each element in the set of matched elementsGet the combined text contents of each element in the set of matched elements, including their descendants, or set the text contents of the matched elements."
+    }
+  ],
+  "news-ru": [
+    {
+      "id": 1,
+      "title": "Первоя Новость",
+      "body": "Получить объединенное текстовое содержимое каждого элемента в наборе сопоставленных элементов, включая их потомков, или установить текстовое содержимое сопоставленных элементов."
+    },
+    {
+      "id": 2,
+      "title": "Вторая Новость",
+      "body": "Получить объединенное текстовое содержимое каждого элемента в наборе сопоставленных элементов, включая их потомков, или установить текстовое содержимое сопоставленных элементов."
+    },
+    {
+      "id": 3,
+      "title": "Третья Новость",
+      "body": "Получить объединенное текстовое содержимое каждого элемента в наборе сопоставленных элементов, включая их потомков, или установить текстовое содержимое сопоставленных элементов Получить объединенное текстовое содержимое каждого элемента в наборе сопоставленных элементов, включая их потомков, или установить текстовое содержимое сопоставленных элементов"
+    }
+  ],
+  "news-fr": [
+    {
+      "id": 1,
+      "title": "Premières nouvelles",
+      "body": "Obtenez le contenu textuel concaténé de chaque élément de l'ensemble d'éléments appariés, y compris leurs descendants, ou définissez le contenu textuel des éléments appariés."
+    },
+    {
+      "id": 2,
+      "title": "Deuxième Nouvelles",
+      "body": "Obtenez le contenu textuel concaténé de chaque élément de l'ensemble d'éléments appariés, y compris leurs descendants, ou définissez le contenu textuel des éléments appariés."
+    },
+    {
+      "id": 3,
+      "title": "Troisième Nouvelles",
+      "body": "Obtenez le contenu textuel concaténé de chaque élément de l'ensemble d'éléments appariés, y compris leurs descendants, ou définissez le contenu textuel des éléments appariés.Obtenez le contenu textuel concaténé de chaque élément de l'ensemble d'éléments appariés, y compris leurs descendants, ou définissez le contenu textuel des éléments appariés."
+    }
+  ]
+}
